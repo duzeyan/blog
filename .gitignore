@@ -17,6 +17,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+
+# vs project
+*.ilk
+
 # =========================
 # Operating System Files
 # =========================
@@ -41,3 +45,24 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+*.ilk
+*.ipch
+*.sdf
+*.sln
+*.tlog
+*.res
+*.manifest
+*.pdb
+*.idb
+*.user
+*.rc
+*.obj
+*.log
+*.vcxproj
+*.cache
+*.filters
+*.lastbuildstate
+*.exe
+*.suo
